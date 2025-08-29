@@ -15,3 +15,5 @@ The party sets fire to the windmill and leaves. As they visit an unknown structu
 As they travel to **Vallaki**, they get attacked by 5 werewolves. Everyone but Isabelle gets bit and Sonya finds outs that unless she attacks them through some magical means, normal attacks do no damage. They get rescued by wereravens and rush into Vallaki, where the party surmises that those bit are infected with lycanthropy. Due to the high prices of the inn they were at, Sonya and Isabelle split up from the party to sleep at an alleyway. They meet an eccentric shopkeeper called **Blinksy** and end up sleeping at his toy store.
 
 Before resting, Sonya jogs her memory and replaces her memorized spells. She ritual casts 'Comprehend Languages' in the morning and starts reading the books they took from the hags lair. She finds the formula for the "Youth potion" that Mallarda took and notes that the ingredients would make Mallarda freak. Sonya writes out the formula as a prank for Mallarda and leaves with Isabelle to meet up with the party. Unfortunately, the prank affects Mallarda more negatively than expected and derails the party for an hour. 
+
+Grave digging Felix's mother
