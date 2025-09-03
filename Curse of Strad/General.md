@@ -16,6 +16,8 @@ As they travel to **Vallaki**, they get attacked by 5 werewolves. Everyone but I
 
 Before resting, Sonya jogs her memory and replaces her memorized spells. She ritual casts 'Comprehend Languages' in the morning and starts reading the books they took from the hags lair. She finds the formula for the "Youth potion" that Mallarda took and notes that the ingredients would make Mallarda freak. Sonya writes out the formula as a prank for Mallarda and leaves with Isabelle to meet up with the party. Unfortunately, the prank affects Mallarda more negatively than expected and derails the party for an hour. 
 
-The party regroups at the tavern where the party speaks to the innkeeper's husband. He brings up two possible solutions to lycanthropy - Belladonna and killing the werewolves. He talks about the Wizards of the wine, and states they are currently in the midst of war, before comm. He points out the location of the local church and orphanage before 
+The party regroups at the tavern where the party speaks to the innkeeper's husband. He brings up two possible solutions to lycanthropy - Belladonna and killing the werewolves that bit them. He talks about the Wizards of the Wine, and states they are currently in the midst of war, before confirming that they lost a gem used to produce wine. Finally, he points out the location of the local church and orphanage.
+
+The team visits the local church only to realize that the priest residing there, **Father Lucian**, is someone who can only praise the Morning Lord, with no true capabilities. He calls Mallarda a Saint after hearing she is able to resurrect others and it helps inflate her bruised ego from this morning. When Mallarda asks for holy water, Father Lucian explains that the bones used to create the holy water was stolen. Seeing that the party needs the 
 
 After asking Blinksy for directions to the graveyard, the team goes to dig up Felix's parents and Blinksy's teacher.  
