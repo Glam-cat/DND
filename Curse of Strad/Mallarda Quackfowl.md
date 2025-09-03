@@ -9,3 +9,5 @@ Height: 5'10, Technically 6' if standing upright
 		- Will hit Mallarda back
 	- Watched her take a potion from the hags lair despite Sonya warning her of negative consequences
 		- Plays a petty prank involving this later, which makes Mallarda depressed enough to lock herself up for an hour
+	- To make up for her mistakes, Sonya has been unusually agreeable in helping out Father Lucian find the missing bones
+

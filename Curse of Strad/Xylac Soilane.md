@@ -11,3 +11,4 @@ Height: 4'5
 		- Pass out after eating to many pies during the hag fight
 		- Go invisible during the werewolf fight
 		- Inform the party he was no longer inflicted with lycanthropy after a night's sleep at the inn despite Holly and Mallarda still having it  
+	- 
