@@ -18,6 +18,10 @@ Before resting, Sonya jogs her memory and replaces her memorized spells. She rit
 
 The party regroups at the tavern where the party speaks to the innkeeper's husband. He brings up two possible solutions to lycanthropy - Belladonna and killing the werewolves that bit them. He talks about the Wizards of the Wine, and states they are currently in the midst of war, before confirming that they lost a gem used to produce wine. Finally, he points out the location of the local church and orphanage.
 
-The team visits the local church only to realize that the priest residing there, **Father Lucian**, is someone who can only praise the Morning Lord, with no true capabilities. He calls Mallarda a Saint after hearing she is able to resurrect others and it helps inflate her bruised ego from this morning. When Mallarda asks for holy water, Father Lucian explains that the bones used to create the holy water was stolen. Seeing that the party needs the 
+The team visits the local church only to realize that the priest residing there, **Father Lucian**, is someone who can only praise the Morning Lord, with no true capabilities. He calls Mallarda a Saint after hearing she is able to resurrect others and it helps inflate her bruised ego from this morning. When Mallarda asks for holy water, Father Lucian explains that the bones used to create the holy water was stolen. The team decides to find the bones and ends up at the orphanage next door.
 
-After asking Blinksy for directions to the graveyard, the team goes to dig up Felix's parents and Blinksy's teacher.  
+They drop off the two children with the orphanage matron but quickly find out that the kids are being beat. The matron suspects that the troubled child, **Felix**, is the one causing these bruises but also claims that he is locked up in the attic. The team is unable to find glean anything from Felix, despite his unsettling nature and they move on to the gravekeeper, who they believe have stolen the bones. 
+
+After much investigation, they find that he's been cursed and they remove the demon rune cursing him. They roam the backyard and find 350 gold and a silver longsword, but no bones. Stuck at a dead end, they visit Blinsky and ask him to take in the children. Blinksy requests to meet the children first before doing so and gives the party directions to the graveyard. 
+
+At the graveyard, Sonya digs up Felix's parents and Blinksy's teacher while Mallarda casts speak with the dead. They find out that Felix killed his parents and Blinksy made his clockwork gear   
