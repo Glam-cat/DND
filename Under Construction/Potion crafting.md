@@ -30,8 +30,9 @@ Plants
 - Rosemary
 
 Potions
-- Truth Potion
-- Sleep Potion
+- Elixir of Doubt (Truth Potion)
+	A creature subjected to this poison must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. The poisoned creature can't knowingly speak a lie, as if under the effect of a zone of truth spell.
+- Essence of Ether (Sleep Potion)
 - Paralyze Potion
 - Missing pets
 	- Frightened 3 turn
