@@ -6,6 +6,11 @@ Mushrooms
 - Rainbow caps
 - Shadow Chantelle
 - Watercap
+- Witch shroom
+- Goblin shroom
+- Kraken shroom
+- Marsh shroom
+- Moss shroom
 
 Plants
 - BloodThorn
@@ -17,7 +22,22 @@ Plants
 - Thunder Thistle
 - Thornstick
 - Dream beet
+- Goldthorn
+- Icefruit
+- Tangleweed
+- Lifeleaf
+- Waterbloom
+- Rosemary
 
-Crystals/Minerals
-- Citrine 
-- Cloud crystal
+Potions
+- Truth Potion
+- Sleep Potion
+- Paralyze Potion
+- Missing pets
+	- Frightened 3 turn
+- Faltering Will
+	- Disadvantage on Wisdom saving throws until long rest
+- Lost time
+	- AC -2 and cannot make reactions 50 turns
+- Heart of Stone
+	- Poison resistance until a long or short rest
