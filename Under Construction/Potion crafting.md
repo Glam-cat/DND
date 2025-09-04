@@ -1,6 +1,11 @@
 Mushrooms
 - Madshroom
 - Foggy Parasol
+- Sulfur shelf
+- Phantom Skirts
+- Rainbow caps
+- Shadow Chantelle
+- Watercap
 
 Plants
 - BloodThorn
@@ -9,7 +14,9 @@ Plants
 - Firebell
 - Windbloom
 - Whirlweed
-- 
+- Thunder Thistle
+- Thornstick
+- Dream beet
 
 Crystals/Minerals
 - Citrine 
