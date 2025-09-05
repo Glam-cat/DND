@@ -44,5 +44,7 @@ Funny* potion ideas
 	- Poison resistance until a long or short rest
 - **Pretty Blossom**
 	- On contact - Causes rashes to break out if a creature fails a constitution saving throw
-- Fools gold
+- **Fools gold**
 	- Ingested - Gain a phobia to gold for the next hour if a creature fails a constitution saving throw
+- **Rainbows and Sunshine**
+	- Ingested - Cough out hair balls made of hair from not from anyone or anything around the creature 
