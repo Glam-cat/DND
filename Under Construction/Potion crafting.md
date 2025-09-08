@@ -48,3 +48,8 @@ Funny* potion ideas
 	- Ingested - Gain a phobia to gold for the next hour if a creature fails a constitution saving throw
 - **Rainbows and Sunshine**
 	- Ingested - Cough out hair balls made of hair from not from anyone or anything around the creature 
+- **Silksong** (Climbing potion reflavored)
+	- Ingested - A sticky, silk like, substance seems to come out of your fingertips before fading away. You feel compelled to sing/hum for the next hour if you fail a constitution saving throw. You gain a climbing speed equal to your walking speed for 1 hour. During this time, you have advantage on Strength (Athletics) checks you make to climb.
+		- https://roll20.net/compendium/dnd5e/Potion%20of%20Climbing#content
+- **Solemn Gargoyle** (Potion of Watchful Rest reflavored) 
+	- 
