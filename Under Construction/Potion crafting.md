@@ -35,9 +35,13 @@ Plants
 - ~~**Essence of Ether** (Basically sleep potion)~~
 	~~A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 8 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.~~
 - **Faltering Will**
-	- Disadvantage on Wisdom saving throws until long rest
+	- Ingested - Disadvantage on Wisdom saving throws until long rest
 - **Lost time**
-	- AC -2 and cannot make reactions 50 turns
+	- Ingested - AC -2 and cannot make reactions 50 turns
+- **Pretty Blossom**
+	- On contact - Causes rashes to break out if a creature fails a constitution saving throw
+- **Rainbows and Sunshine**
+	- Ingested - Cough out hair balls made of hair from not from anyone or anything around the creature 
 - **Missing pets** (Potion of Animal Friendship reflavored)
 	- Ingested - When you drink this potion, it's as if you have casted the animal friendship spell for the next hour. If you fail a charisma saving throw, you are Frightened of animals as well 
 		- https://dnd5e.wikidot.com/wondrous-items:potion-of-animal-friendship
@@ -45,16 +49,12 @@ Plants
 - **Heart of Stone** (Potion of Resistance reflavored)
 	- Gain resistance to one type of damage for 1 hour. Roll a 1d10 to determine which resistance. If you fail a wisdom saving throw, you are instead vulnerable to that damage type.
 		- https://dnd5e.wikidot.com/wondrous-items:potion-of-resistance
-- **Pretty Blossom**
-	- On contact - Causes rashes to break out if a creature fails a constitution saving throw
-- **Fools gold** (Potion of Poison reflavored)
-	- Ingested - Take 1d6 poison damage. Gain a phobia to gold for the next hour if a creature fails a constitution saving throw. 
-		- https://dnd5e.wikidot.com/wondrous-items:potion-of-poison
-- **Rainbows and Sunshine**
-	- Ingested - Cough out hair balls made of hair from not from anyone or anything around the creature 
 - **Silksong** (Potion of Climbing reflavored)
 	- Ingested - A sticky, silk like, substance seems to come out of your fingertips before fading away. You feel compelled to sing/hum for the next hour if you fail a constitution saving throw. You gain a climbing speed equal to your walking speed for 1 hour. During this time, you have advantage on Strength (Athletics) checks you make to climb.
 		- https://roll20.net/compendium/dnd5e/Potion%20of%20Climbing#content
 - **Solemn Gargoyle** (Potion of Watchful Rest reflavored) 
-	- When you drink this potion, you gain the following benefits for the next 8 hours: Magic can't put you to sleep, and you can remain awake during a long rest. You will not suffer one level of exhaustion but you do not gain your spell slots back. 
+	- Ingested - For the next 8 hours, Magic can't put you to sleep, and you can remain awake during a long rest. You will not suffer one level of exhaustion but you do not gain your spell slots back. 
 		- https://dnd5e.wikidot.com/wondrous-items:potion-of-watchful-rest
+- **Fools gold** (Potion of Poison reflavored)
+	- Ingested - Take 1d6 poison damage. Gain a phobia to gold for the next hour if a creature fails a constitution saving throw. 
+		- https://dnd5e.wikidot.com/wondrous-items:potion-of-poison
