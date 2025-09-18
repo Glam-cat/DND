@@ -2,7 +2,7 @@ Class: Fighter
 Race: Goliath 
 Height: 7'6
 Origin: Kalaman Jungles
-Age: 17
+Age: 17 and 2 months
 
 Personality
 - Tries to act like a serious adult, but still has a childish streak
