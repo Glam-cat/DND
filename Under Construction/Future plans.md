@@ -1,5 +1,5 @@
 - War bond (2nd weapon) with silver longsword after short rest
-- Change Flail (Sap) to Longsword (Sap) after long rest
+- Change Flail (Sap) to Longsword (Sap) after long rest (done)
 - Keep reading the hag's book with comprehend languages
 
 Feats - Great Weapon Master, Mage Slayer, Charger
