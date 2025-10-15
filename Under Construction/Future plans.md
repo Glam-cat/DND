@@ -5,8 +5,8 @@
 	- Change Flail (Sap) to Longsword (Sap) after long rest (done)
 	- Change Glaive (Graze) to Quarterstaff (Topple) after long rest
 
-Feats - Great Weapon Master, Mage Slayer, Sentinel
-- Other: Charger
+Feats - Great Weapon Master, Mage Slayer
+- Other: Charger, Sentinel (doesn't stack w. Reactive strike)
 
 
 
