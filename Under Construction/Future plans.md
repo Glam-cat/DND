@@ -1,8 +1,8 @@
 - War bond (2nd weapon) with silver longsword after short rest
-- Change Flail (Sap) to Longsword (Sap) after long rest (done)
 - Keep reading the hag's book with comprehend languages
-- Resummon howl, preferred in another form --> Get incense worht  
+- Resummon howl, preferred in another form --> Get incense worth 10 gold 
 
+	- Change Flail (Sap) to Longsword (Sap) after long rest (done)
 
 Feats - Great Weapon Master, Mage Slayer, Charger
 - Cheese grater feats: Sentinel
