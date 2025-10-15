@@ -25,15 +25,14 @@ You gain the following benefits.
 - **Concentration Breaker**. When you damage a creature that is concentrating, it has Disadvantage on the saving throw it makes to maintain Concentration.  
 - **Guarded Mind**. If you fail an Intelligence, a Wisdom, or a Charisma saving throw, you can cause yourself to succeed instead. Once you use this benefit, you can't use it again until you finish a Short or Long Rest.
 
-**Charger**
-You gain the following benefits.  
-- **Ability Score Increase**. Increase your Strength or Dexterity score by 1, to a maximum of 20.  
-- **Improved Dash**. When you take the Dash Action, your Speed increases by 10 feet for that action.  
-- **Charge Attack**. If you move at least 10 feet in a straight line toward a target immediately before hitting it with a melee attack roll as part of the Attack action, choose one of the following effects: gain a 1d8 bonus to the attack's damage roll, or push the target up to 10 feet away if it is no more than one size larger than you. You can use this benefit only once on each of your turns.
-
 **Sentinel**
 You gain the following benefits.  
 - **Ability Score Increase**. Increase your Strength or Dexterity score by 1, to a maximum of 20.  
 - **Guardian**. Immediately after a creature within 5 feet of you takes the Disengage Action or hits a target other than you with an attack, you can make an Opportunity Attack against that creature.  
 - **Halt**. When you hit a creature with an Opportunity Attack, the creature's Speed becomes 0 for the rest of the current turn.
 
+**Charger**
+You gain the following benefits.  
+- **Ability Score Increase**. Increase your Strength or Dexterity score by 1, to a maximum of 20.  
+- **Improved Dash**. When you take the Dash Action, your Speed increases by 10 feet for that action.  
+- **Charge Attack**. If you move at least 10 feet in a straight line toward a target immediately before hitting it with a melee attack roll as part of the Attack action, choose one of the following effects: gain a 1d8 bonus to the attack's damage roll, or push the target up to 10 feet away if it is no more than one size larger than you. You can use this benefit only once on each of your turns.
