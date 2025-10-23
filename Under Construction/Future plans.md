@@ -1,6 +1,7 @@
-- War bond (2nd weapon) with Silvered Longsword after short rest (done)
+- ~~War bond (2nd weapon) with Silvered Longsword after short rest~~ (done)
 - Keep reading the hag's book with comprehend languages
 - Resummon howl, preferably in another form --> Get incense worth 10 gold 
+- Fix the max HP issue
 
 	- ~~Change Flail (Sap) to Longsword (Sap) after long rest~~ (done)
 	- ~~Change Glaive (Graze) to Quarterstaff (Topple) after long rest~~ (done)
