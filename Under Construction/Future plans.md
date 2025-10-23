@@ -1,9 +1,9 @@
-- War bond (2nd weapon) with silver longsword after short rest
+- War bond (2nd weapon) with Silvered Longsword after short rest (done)
 - Keep reading the hag's book with comprehend languages
 - Resummon howl, preferably in another form --> Get incense worth 10 gold 
 
 	- ~~Change Flail (Sap) to Longsword (Sap) after long rest~~ (done)
-	- Change Glaive (Graze) to Quarterstaff (Topple) after long rest
+	- ~~Change Glaive (Graze) to Quarterstaff (Topple) after long rest~~ (done)
 
 Feats - Great Weapon Master, Mage Slayer
 - Other: Charger, Sentinel (doesn't stack w. Reactive strike)
