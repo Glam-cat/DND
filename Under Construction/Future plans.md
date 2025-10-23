@@ -2,7 +2,7 @@
 - Keep reading the hag's book with comprehend languages
 - Resummon howl, preferably in another form --> Get incense worth 10 gold 
 
-	- Change Flail (Sap) to Longsword (Sap) after long rest (done)
+	- ~~Change Flail (Sap) to Longsword (Sap) after long rest~~ (done)
 	- Change Glaive (Graze) to Quarterstaff (Topple) after long rest
 
 Feats - Great Weapon Master, Mage Slayer
