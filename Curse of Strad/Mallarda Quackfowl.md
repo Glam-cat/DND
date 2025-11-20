@@ -11,6 +11,6 @@ Height: 5'10, Technically 6' if standing upright
 		- Plays a petty prank involving this later, which makes Mallarda depressed enough to lock herself up for an hour
 	- To make up for her mistakes, Sonya has been unusually agreeable in helping out Father Lucian find the missing bones
 	- Made a racist comment towards Goliaths in front of Sonya, lowering her perception of Mallarda again
-	- 
+	- Stood back during the zombies fight 
 	- Bad leadership in the current mansion
 
