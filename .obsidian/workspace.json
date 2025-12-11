@@ -27,28 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strad/Mallarda Quackfowl.md",
+                "file": "Curse of Strad/Sonya/Sonya.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mallarda Quackfowl"
-            }
-          },
-          {
-            "id": "6217ddfc2af175fe",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "title": "Sonya"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,18 +194,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6217ddfc2af175fe",
+  "active": "89d1236a7c33459c",
   "lastOpenFiles": [
+    "Curse of Strad/Sonya/Lost Scenes.md",
+    "Curse of Strad/Sonya/Backstory - Tidbits.md",
+    "Curse of Strad/Sonya/Backstory.md",
+    "Curse of Strad/Mallarda Quackfowl.md",
+    "Curse of Strad/Sonya/Sonya.md",
     "Curse of Strad/Isabelle Von Aegir.md",
     "Curse of Strad/Holly Aligar.md",
     "Curse of Strad/General.md",
     "Under Construction/Future plans.md",
-    "Curse of Strad/Sonya/Sonya.md",
-    "Curse of Strad/Sonya/Lost Scenes.md",
     "Curse of Strad/Xylac Soilane.md",
-    "Curse of Strad/Mallarda Quackfowl.md",
-    "Curse of Strad/Sonya/Backstory.md",
-    "Curse of Strad/Sonya/Backstory - Tidbits.md",
     "Under Construction/Possible Lost Scenes.md",
     "Under Construction/Potion crafting.md",
     "Untitled.base",
