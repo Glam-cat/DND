@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Mallarda Quackfowl"
             }
+          },
+          {
+            "id": "6217ddfc2af175fe",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89d1236a7c33459c",
+  "active": "6217ddfc2af175fe",
   "lastOpenFiles": [
     "Curse of Strad/Isabelle Von Aegir.md",
     "Curse of Strad/Holly Aligar.md",
