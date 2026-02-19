@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e23ba3d7b8375f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curse of Strad/Sonya/Sonya.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sonya"
-            }
-          },
-          {
-            "id": "89d1236a7c33459c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curse of Strad/Sonya/Sonya.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sonya"
-            }
-          },
-          {
-            "id": "62ad15d01616f3af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curse of Strad/Sonya/Sonya.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sonya"
-            }
-          },
-          {
             "id": "100b0a2ec312a0b3",
             "type": "leaf",
             "state": {
@@ -63,8 +21,7 @@
               "title": "Future plans"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d0e19d1396cee6e",
+  "active": "100b0a2ec312a0b3",
   "lastOpenFiles": [
     "Curse of Strad/Sonya/Backstory.md",
     "Curse of Strad/Sonya/Lost Scenes.md",

@@ -10,9 +10,8 @@
 Feats - Great Weapon Master, Mage Slayer
 - Other: Charger, Sentinel (doesn't stack w. Reactive strike)
 
-Quill and Ink
-
-
+Quill and Ink confuses Sonya based on what they told her. They seem to think she is some incarnation of The Huntress and that she cursed Ink to become mute. They claimed to accidently do something to the Huntress's shrine and is trying to regain favor from the Huntress to gain her voice back. 
+	- Sonya's thought process is a) this is a prank, b) this is a misunderstanding --> c) Is there something on her that made them think this? some rumor? She did see the Huntress statue and she was carrying the actual Huntress for a while --> So flabbergasted she didn't correct them 
 
 
 
