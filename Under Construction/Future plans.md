@@ -10,6 +10,9 @@
 Feats - Great Weapon Master, Mage Slayer
 - Other: Charger, Sentinel (doesn't stack w. Reactive strike)
 
+Quill and Ink
+
+
 
 
 
