@@ -2,7 +2,8 @@
 - ~~War bond (2nd weapon) with Greatsword +2 (Done)
 - ~~War bond with Silvered Pike (Done)~~
 - Keep reading the hag's book with comprehend languages
-- Resummon howl, preferably in another form --> Have 1 more incense worth 10 gold 
+- ~~Resummon howl, preferably in another form --> Have 1 more incense worth 10 gold~~ 
+	- Has already swapped out Find familiar, no longer applicable 
 	- ~~Change Flail (Sap) to Longsword (Sap) after long rest~~ (done)
 	- ~~Change Glaive (Graze) to Quarterstaff (Topple) after long rest~~ (done)
 	- ~~Change Longsword to Greatsword after long rest (done)
@@ -10,8 +11,8 @@
 Feats - Great Weapon Master, Mage Slayer
 - Other: Charger, Sentinel (doesn't stack w. Reactive strike)
 
-Quill and Ink confuses Sonya based on what they told her. They seem to think she is some incarnation of The Huntress and that she cursed Ink to become mute. They claimed to accidently do something to the Huntress's shrine and is trying to regain favor from the Huntress to gain her voice back. 
-	- Sonya's thought process is a) this is a prank, b) this is a misunderstanding --> c) Is there something on her that made them think this? some rumor? She did see the Huntress statue and she was carrying the actual Huntress for a while --> So flabbergasted she didn't correct them 
+~~Quill and Ink confuses Sonya based on what they told her. They seem to think she is some incarnation of The Huntress and that she cursed Ink to become mute. They claimed to accidently do something to the Huntress's shrine and is trying to regain favor from the Huntress to gain her voice back.~~ 
+	~~- Sonya's thought process is a) this is a prank, b) this is a misunderstanding --> c) Is there something on her that made them think this? some rumor? She did see the Huntress statue and she was carrying the actual Huntress for a while --> So flabbergasted she didn't correct them~~ 
 
 
 - Ghosts are looking up, stationed outside the castle, seeming ready to storm the castle
