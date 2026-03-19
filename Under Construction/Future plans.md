@@ -14,6 +14,10 @@ Quill and Ink confuses Sonya based on what they told her. They seem to think she
 	- Sonya's thought process is a) this is a prank, b) this is a misunderstanding --> c) Is there something on her that made them think this? some rumor? She did see the Huntress statue and she was carrying the actual Huntress for a while --> So flabbergasted she didn't correct them 
 
 
+- Ghosts are looking up, stationed outside the castle, seeming ready to storm the castle
+	- Try to figure out what they're looking at --> Listening to a speech, nodding along to something
+	- Are they w. us to raid the castle / they started to rally, walk into the gates and disappear
+	- Grab the spirit to come w. us and listen
 
 # Feats
 
