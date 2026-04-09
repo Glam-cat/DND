@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "Future plans"
             }
-          },
-          {
-            "id": "a56a254caf0d112f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,20 +194,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a56a254caf0d112f",
+  "active": "5dee3da31e35e4e1",
   "lastOpenFiles": [
+    "Under Construction/Potion crafting.md",
+    "Under Construction/Possible Lost Scenes.md",
+    "Curse of Strad/General.md",
+    "Under Construction/Future plans.md",
     "Curse of Strad/Sonya/Backstory.md",
     "Curse of Strad/Sonya/Backstory - Tidbits.md",
-    "Curse of Strad/General.md",
     "Curse of Strad/Sonya/Sonya.md",
     "Curse of Strad/Sonya/Lost Scenes.md",
     "Curse of Strad/Xylac Soilane.md",
     "Curse of Strad/Mallarda Quackfowl.md",
     "Curse of Strad/Holly Aligar.md",
-    "Under Construction/Potion crafting.md",
-    "Under Construction/Possible Lost Scenes.md",
     "Curse of Strad/Isabelle Von Aegir.md",
-    "Under Construction/Future plans.md",
     "Untitled.base",
     "Under Construction",
     "[Nori.md",
