@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Future plans"
             }
+          },
+          {
+            "id": "a56a254caf0d112f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5dee3da31e35e4e1",
+  "active": "a56a254caf0d112f",
   "lastOpenFiles": [
     "Curse of Strad/Sonya/Backstory.md",
     "Curse of Strad/Sonya/Backstory - Tidbits.md",
