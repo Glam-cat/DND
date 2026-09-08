@@ -8,7 +8,7 @@
 	- ~~Change Glaive (Graze) to Quarterstaff (Topple) after long rest~~ (done)
 	- ~~Change Longsword to Greatsword after long rest (done)
 
-Feats - Great Weapon Master, Mage Slayer
+Feats - Great Weapon Master, ~~Mage Slayer~~
 - Other: Charger, Sentinel (doesn't stack w. Reactive strike)
 
 ~~Quill and Ink confuses Sonya based on what they told her. They seem to think she is some incarnation of The Huntress and that she cursed Ink to become mute. They claimed to accidently do something to the Huntress's shrine and is trying to regain favor from the Huntress to gain her voice back.~~ 
