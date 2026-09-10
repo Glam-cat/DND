@@ -58,3 +58,4 @@ Plants
 - **Fools gold** (Potion of Poison reflavored)
 	- Ingested - Take 1d6 poison damage. Gain a phobia to gold for the next hour if a creature fails a constitution saving throw. 
 		- https://dnd5e.wikidot.com/wondrous-items:potion-of-poison
+
